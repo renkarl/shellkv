@@ -1,2 +1,2 @@
 # shellkv
-A low performance k-v database based on shell and file
+A low performance standalone k-v database based on shell and file
